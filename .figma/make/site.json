@@ -1,0 +1,10 @@
+{
+  "description": "Encontre pontos de coleta próximos, descarte resíduos corretamente e acompanhe seu progresso sustentável enquanto ganha pontos e recompensas.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
